@@ -1,3 +1,4 @@
+/*
 #include <iostream>
 #include <Windows.h>
 #include <string>
@@ -52,4 +53,4 @@ string getDay(dayOfWeek d) {
 		break;
 	}
 	return result;
-}
+}*/

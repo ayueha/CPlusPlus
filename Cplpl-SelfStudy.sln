@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cplpl-SelfStudy", "Cplpl-Se
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CharacterPointer", "CharacterPointer\CharacterPointer.vcxproj", "{76266C6E-C51E-4604-8E52-39A85946439B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FunctionPointer", "FunctionPointer\FunctionPointer.vcxproj", "{FE64DCF7-7D5A-4653-82A8-73F7456A50CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{76266C6E-C51E-4604-8E52-39A85946439B}.Release|x64.Build.0 = Release|x64
 		{76266C6E-C51E-4604-8E52-39A85946439B}.Release|x86.ActiveCfg = Release|Win32
 		{76266C6E-C51E-4604-8E52-39A85946439B}.Release|x86.Build.0 = Release|Win32
+		{FE64DCF7-7D5A-4653-82A8-73F7456A50CF}.Debug|x64.ActiveCfg = Debug|x64
+		{FE64DCF7-7D5A-4653-82A8-73F7456A50CF}.Debug|x64.Build.0 = Debug|x64
+		{FE64DCF7-7D5A-4653-82A8-73F7456A50CF}.Debug|x86.ActiveCfg = Debug|Win32
+		{FE64DCF7-7D5A-4653-82A8-73F7456A50CF}.Debug|x86.Build.0 = Debug|Win32
+		{FE64DCF7-7D5A-4653-82A8-73F7456A50CF}.Release|x64.ActiveCfg = Release|x64
+		{FE64DCF7-7D5A-4653-82A8-73F7456A50CF}.Release|x64.Build.0 = Release|x64
+		{FE64DCF7-7D5A-4653-82A8-73F7456A50CF}.Release|x86.ActiveCfg = Release|Win32
+		{FE64DCF7-7D5A-4653-82A8-73F7456A50CF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

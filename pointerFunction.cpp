@@ -1,7 +1,9 @@
 #include <iostream>
 #include <Windows.h>
+#include "Header.h"  //外部ファイルの情報読み込み
 using namespace std;
 
+#define PI 3.14;
 
 int * multiby(int *, int);
 int mltiNonPoint(int * , int);
@@ -19,8 +21,16 @@ int main(){
 	cout << c << endl;
 	cout << d << endl;
 
+	cout << PI ;
+
+	cout << endl;
+	cout << a << endl;
+	int testNumeric;
+	testNumeric = 90; 
+
 	Sleep(7 * 1000);
 	return 0;
+
 }
 
 int * multiby(int * var, int amount) {

@@ -108,7 +108,7 @@ int main() {
 
 	string *A;
 	cout << "Enter letters" << endl;
-	cin >> A;
+	//cin >> A;
 
 
 

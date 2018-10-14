@@ -12,7 +12,10 @@ using namespace std;
 //	short age;
 //};
 
-
+void test() {
+	PersonInfo *ptr = new PersonInfo[6];
+	delete[]ptr;
+}
 
 int main() {
 
@@ -24,9 +27,11 @@ int main() {
 	//cout << person.age << endl;
 
 	PersonInfo myinfo;
-	PersonInfo myinfoNextTest;
 	myinfo.setAge(50);
-	cout << myinfo.getAge() << endl;
-	Sleep(5 * 1000);
+	cout <<"Your age is ..." <<myinfo.getAge() << endl;
+	//test();
+	PersonInfo myinfoAge(20); //Overriding 
+	cout << "Pless Enter to abort the program" << endl;
+	getchar();
 	return 0;
 }

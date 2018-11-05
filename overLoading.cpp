@@ -2,9 +2,9 @@
 #include <Windows.h>
 using namespace std;
 
-//int variableType(int n);
-//double variableType(double n);
-//void variableType(string &a);
+int variableType(int n);
+double variableType(double n);
+void variableType(string &a);
 
 //Exercise 1.
 //
@@ -23,7 +23,6 @@ using namespace std;
 
 
 
-/*
 void main() {
 	cout << variableType(1) << endl;
 	cout << variableType(3.14) << endl;
@@ -44,4 +43,3 @@ void variableType(string &a) {
 	}
 }
 
-*/

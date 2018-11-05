@@ -1,4 +1,4 @@
-/*  delete comment out when use them
+
 #include <iostream>  // input and output
 #include <typeinfo>  //Dynamic cast
 #include <string>    //sequences of charactors
@@ -216,4 +216,3 @@ void comparFloat() {
 	cout << "MAX number is... " << arrFloar[i-1] << endl;
 	cout << "MIN number is... " << arrFloar[0] << endl;
 }
-*/

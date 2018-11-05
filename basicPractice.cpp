@@ -4,8 +4,7 @@
 using namespace std;
 
 
-//int main(void) {   //when excute it, remove commentout 
-int basicPractice(void) { // when execute it comentout
+int main(void) {   
 	int A;
 	A = 4;
 	// cout << "Hello" << endl;

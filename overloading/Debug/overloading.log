@@ -1,0 +1,4 @@
+﻿  overLoading.cpp
+p:\cplusplus\cplusplus\overloading.cpp(26): warning C4326: return type of 'main' should be 'int' instead of 'void'
+p:\cplusplus\cplusplus\overloading.cpp(41): warning C4018: '<': signed/unsigned mismatch
+  overloading.vcxproj -> P:\Cplusplus\Cplusplus\Debug\overloading.exe

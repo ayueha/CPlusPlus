@@ -1,0 +1,3 @@
+﻿P:\Microsoft Visual Studio\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Cplpl-SelfStudy.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  RferandEnum.cpp
+  Cplpl-SelfStudy.vcxproj -> P:\Cplusplus\Cplusplus\Debug\ReferenceAndEnum.exe

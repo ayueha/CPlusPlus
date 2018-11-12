@@ -1,0 +1,4 @@
+﻿  characterPointer.cpp
+p:\cplusplus\cplusplus\characterpointer.cpp(13): warning C4018: '<': signed/unsigned mismatch
+p:\cplusplus\cplusplus\characterpointer.cpp(14): warning C4018: '<': signed/unsigned mismatch
+  CharacterPointer.vcxproj -> P:\Cplusplus\Cplusplus\Debug\CharacterPointer.exe
